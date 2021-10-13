@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.14df8458.chunk.js",
+    "main.js.map": "/static/js/main.14df8458.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8ea5f059.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8ea5f059.js.map",
+    "static/css/2.676add4a.chunk.css": "/static/css/2.676add4a.chunk.css",
+    "static/js/2.d5a13e1a.chunk.js": "/static/js/2.d5a13e1a.chunk.js",
+    "static/js/2.d5a13e1a.chunk.js.map": "/static/js/2.d5a13e1a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5f8935fea696c50d7787486346cae669.js": "/precache-manifest.5f8935fea696c50d7787486346cae669.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.676add4a.chunk.css.map": "/static/css/2.676add4a.chunk.css.map",
+    "static/js/2.d5a13e1a.chunk.js.LICENSE.txt": "/static/js/2.d5a13e1a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.08f39897.svg",
+    "static/media/restaurante-fake.png": "/static/media/restaurante-fake.cd9dc0a0.png",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ea5f059.js",
+    "static/css/2.676add4a.chunk.css",
+    "static/js/2.d5a13e1a.chunk.js",
+    "static/js/main.14df8458.chunk.js"
+  ]
+}

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "163a0b46fdc95c4fc34c022282583a4c",
+    "revision": "47fde8b97d70c5a014a17912e346ba69",
     "url": "/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d5a13e1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc51d4ff1f7d6d15fdf6",
-    "url": "/static/js/main.14df8458.chunk.js"
+    "revision": "19fc67577ba504c5b750",
+    "url": "/static/js/main.4e33b446.chunk.js"
   },
   {
     "revision": "f8aaae6253b62226ba37",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "08f39897dbee999c32caef9d8232b863",
     "url": "/static/media/logo.08f39897.svg"
-  },
-  {
-    "revision": "cd9dc0a03aaf06f884e324efb55fef90",
-    "url": "/static/media/restaurante-fake.cd9dc0a0.png"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",

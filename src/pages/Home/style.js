@@ -20,7 +20,7 @@ export const Search = styled.section`
     justify-content: center;
     background-color: #fff;
     padding: 1rem;
-    gap: 1rem
+    gap: 1rem;    
 `;
 
 export const Logo = styled.img`
